@@ -1,4 +1,4 @@
-# ColidiltyAlpha
+# CodiltyAlpha
  
 My solution to the Codility training challenge Alpha https://app.codility.com/programmers/challenges/alpha2010/ 
 
